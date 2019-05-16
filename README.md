@@ -4,7 +4,7 @@ script untuk serangan spoofing arp
 
 Script Jalankan menggunakan root akses
 
-git clone https://github.com/linux-care/arpSpoof
+git clone https://github.com/zulfinoviansya/arpSpoof
 sudo cd arpSpoof
 sudo chmod + x arpspoof.sh
 sudo ./arpspoof.sh
